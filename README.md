@@ -1,6 +1,6 @@
 ### Hi! Im Alan 👋
 
-I am a physics undergraduate student in the thesis process, currently working as a full stack web developer.
+
 
 <!--
 **AlanAxp/alanaxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
