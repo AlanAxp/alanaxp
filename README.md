@@ -1,10 +1,12 @@
 ### Hi! Im Alan 👋
 
-I am a physics undergraduate student who loves programming
+I am a physics undergraduate student who loves programming.
 
-software development.
-<!--
+
 Full stack web developer Jr.
+
+<!--software development.
+
 -->
 <!--
 **AlanAxp/alanaxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
