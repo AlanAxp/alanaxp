@@ -2,7 +2,7 @@
 
 I am a physics undergraduate student who loves software development.
 
-Full stack web developer jr
+Full stack web developer Jr.
 
 <!--
 **AlanAxp/alanaxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
