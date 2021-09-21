@@ -1,5 +1,6 @@
 ### Hi! Im Alan 👋
 
+I am a physicist undergraduate who loves being a full stack software developer.
 
 
 <!--
